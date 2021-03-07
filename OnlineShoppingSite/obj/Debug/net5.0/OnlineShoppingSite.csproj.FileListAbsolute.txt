@@ -41,7 +41,6 @@ C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\bin\Debug\net5
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.csprojAssemblyReference.cache
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.AssemblyInfoInputs.cache
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.AssemblyInfo.cs
@@ -57,3 +56,4 @@ C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\ref\OnlineShoppingSite.dll
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.pdb
 C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.genruntimeconfig.cache
+C:\Users\siddh\source\repos\OnlineShoppingSite\OnlineShoppingSite\obj\Debug\net5.0\OnlineShoppingSite.csprojAssemblyReference.cache
